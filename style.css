@@ -1,0 +1,91 @@
+*{
+	padding: 0;
+	margin: 0;
+	
+}
+.container{
+	width: 100%;
+	margin-top: 50px;
+	
+}
+span{
+	color: #ff3333;
+}
+.feauters-card{
+	width: 600px;
+	border: 8px solid white;
+	box-shadow: 60px rgba(0, 0, 0, 0.1);
+}
+.light-card{
+	width: 500px;
+	border: 5px solid white;
+	box-shadow:60px rgba(0, 0, 0, 0.1);
+}
+.flash-card{
+	width: 550px;
+	border: 8px solid white;
+	box-shadow: 60px rgba(0, 0, 0, 0.1);
+}
+.team-card2{
+	position: relative;
+
+}
+.light-card{
+	position: absolute;
+	top: 80px;
+	right: 100px;
+}
+.team-card3{
+	padding-top: 180px;
+	
+
+
+}
+.content{
+	text-align: center;
+}
+
+a{
+	
+	border-radius: 5%;
+	background-color: rgba(206, 11, 30, 0.81);
+	padding: 10px;
+	padding-right: 26px;
+	padding-left: 26px;
+	color: rgba(248, 246, 246, 0.81);
+}
+ol{
+	list-style-type: none;
+}
+.team-card5{
+	padding-top: 60px;
+}
+li{
+	padding-left: 2px;
+}
+i{
+	color: red;
+}
+
+
+
+
+.team-row{
+	width: 110%;
+	display: flex;
+/*	justify-content: space-between;*/
+	flex-wrap: wrap;
+	
+	
+}
+.team-col{
+	width: 30%;
+	padding: 100px;
+}
+.team-card{
+	width: 100%;
+	
+	
+	padding: 50px;
+
+}
